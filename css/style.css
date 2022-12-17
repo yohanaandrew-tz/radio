@@ -1,0 +1,47 @@
+#logo{
+    border-radius: 50%;
+}
+#front{
+    background-image: url(front.jpg);
+    background-size: 100%;
+    text-align: center;
+    padding: 10px;
+}
+#inner{
+    background-color: rgb(0, 0, 0, 0.7);
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+    border: 3px outset;
+}
+.slog{
+    color: red;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+label{
+    margin: 5px;
+}
+#prest{
+    border-radius: 50%;
+}
+#ctc{
+    position: fixed;
+    top: 5rem;
+    right: 0.5rem;
+    color: white;
+    background-color:blue;
+    padding:5px;
+    border-radius:50%;
+    border:3px outset;
+    }
+    #ctc:hover{
+    color: white;
+    background-color:red;
+    }
+    footer{
+        color: white;
+        background-color: black;
+        text-align: center;
+        padding: 5px;
+    }
