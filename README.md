@@ -1,5 +1,5 @@
 # listen to radio
-It is the website for [radio](https://yohanaandrew-tz.github.io/radio/) station
+It is the **Responsive** website for [radio](https://yohanaandrew-tz.github.io/radio/) station
 - It is a frontend with little backend features website
 
 - Languages & tools involved
