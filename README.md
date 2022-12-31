@@ -15,6 +15,7 @@ It is the website for [radio](https://yohanaandrew-tz.github.io/radio/) station
 
 **Framework**
 - w3css
+- Font-awesome icons
 
 
 **[Click here](https://yohanaandrew-tz.github.io/radio/)** to visit it on browser
